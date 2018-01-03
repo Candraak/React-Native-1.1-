@@ -3,6 +3,7 @@ import { Alert, AppRegistry, Button, StyleSheet, View } from 'react-native';
 
 import Intro from "./component/intro.js";
 export default class ButtonBasics extends Component {
+  
 abdull() {
     Alert.alert('hayy saya as abdull')
   }
